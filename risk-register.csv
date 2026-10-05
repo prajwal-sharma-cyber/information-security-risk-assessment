@@ -1,0 +1,9 @@
+risk_id,asset,threat,vulnerability,likelihood,impact,risk_score,treatment
+R001,Customer Portal,Web exploitation,Delayed patching,4,5,20,Reduce
+R002,Employee Laptops,Ransomware,Weak endpoint controls,4,5,20,Reduce
+R003,File Server,Unauthorised access,Excessive permissions,3,5,15,Reduce
+R004,Cloud Accounts,Account takeover,No MFA,4,5,20,Reduce
+R005,Customer Data,Data leakage,Excessive data retention,3,5,15,Reduce
+R006,Network,Unauthorised access,Poor segmentation,3,4,12,Reduce
+R007,Backups,Ransomware impact,Insufficient isolation,3,5,15,Reduce
+R008,Staff,Phishing,Limited awareness,4,4,16,Reduce
